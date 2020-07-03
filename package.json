@@ -1,0 +1,27 @@
+{
+  "name": "twitter-block-bot",
+  "version": "1.0.0",
+  "description": "Blocks any follower of yours that is older than X years.",
+  "main": "bot.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobdcastro/twitter-block-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "node"
+  ],
+  "author": "Jacob D. Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobdcastro/twitter-block-bot/issues"
+  },
+  "homepage": "https://github.com/jacobdcastro/twitter-block-bot#readme"
+}
